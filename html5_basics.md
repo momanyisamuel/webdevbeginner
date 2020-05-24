@@ -47,6 +47,7 @@ Some HTML tags need attributes to provide more information
 
 Example
 
+```
 <!doctype html>
 <html>
     <head>
@@ -54,6 +55,7 @@ Example
     <body>
     </body>
 </html>
+```
 
 ## Code Editiors
 
@@ -67,11 +69,11 @@ code editors make writing HTML easier
 
 Code editors offer both tag completion
 
-[Code Coloring](images/emmet.gif)
+![Code Coloring](images/emmet.gif)
 
 and code coloring
 
-[Code Coloring](images/codecoloring.JPG)
+![Code Coloring](images/codecoloring.JPG)
 
 ### Learning Outcomes
 
