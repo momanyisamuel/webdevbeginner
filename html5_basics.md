@@ -25,7 +25,7 @@ some HTML tags stand alone
 
 `<img src="bananas.jpg">`
 
-> no `</img>` is necessary
+> **Note:** no `</img>` is necessary
 
 Some HTML tags need attributes to provide more information
 
@@ -37,9 +37,9 @@ Some HTML tags need attributes to provide more information
 
 code editors make writing HTML easier
 
-- Atom -
-- Sublime text -
-- VS Code -
+- [Atom](https://atom.io/)
+- [Sublime text ](https://www.sublimetext.com/)
+- [VS Code](https://code.visualstudio.com/)
 
 > **Note:** I use VS Code
 
@@ -54,8 +54,8 @@ and code coloring
 `<head></head>` - Information for the browser about your page.
 `<body></body>` - The contents of your page go here.
 
-> Without these tags the browser cannot identify your HTML page
-> Below is the complete structure of a HTML Web page
+> **Note:** Without these tags the browser cannot identify your HTML page
+> **Note:** Below is the complete structure of a HTML Web page
 
 ---
 
@@ -81,9 +81,9 @@ Example
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
-- 1. Read [Shay Howe's Introduction to Terminology & Syntax](http://learn.shayhowe.com/html-css/terminology-syntax-intro)
-- 2. Read [Shay Howe on the HTML Basics](http://learn.shayhowe.com/html-css/elements-semantics)
-- 3. Read [Shay Howe on Best Practices](http://learn.shayhowe.com/html-css/coding-practices)
+- Read [Shay Howe's Introduction to Terminology & Syntax](http://learn.shayhowe.com/html-css/terminology-syntax-intro)
+- Read [Shay Howe on the HTML Basics](http://learn.shayhowe.com/html-css/elements-semantics)
+- Read [Shay Howe on Best Practices](http://learn.shayhowe.com/html-css/coding-practices)
 </div>
 
 ### Additional Resources
