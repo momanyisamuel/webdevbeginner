@@ -40,20 +40,17 @@ Some HTML tags need attributes to provide more information
 `<head></head>` - Information for the browser about your page.
 `<body></body>` - The contents of your page go here.
 
-> **Note:** Without these tags the browser cannot identify your HTML page
-> **Note:** Below is the complete structure of a HTML Web page
+> **Note:** Without these tags the browser cannot identify your HTML page. Below is the complete structure of a HTML Web page
 
 ---
 
 Example
 
-```
-<!doctype html>
+```html
+<!DOCTYPE html>
 <html>
-    <head>
-    </head>
-    <body>
-    </body>
+  <head> </head>
+  <body></body>
 </html>
 ```
 
