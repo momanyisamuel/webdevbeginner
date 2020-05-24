@@ -29,8 +29,46 @@ Some HTMl tags sorround other tags!
 some HTML tags stand alone
 
 `<img src="bananas.jpg">`
-_no `</img>` is necessary_
+
+> no `</img>` is necessary
 
 Some HTML tags need attributes to provide more information
 
 ![Element Breakdown](images/element_breakdown.png)
+
+> we close the tag and not the attribute
+
+## code editiors
+
+code editors make writing HTML easier
+
+Atom -
+Sublime text -
+VS Code -
+
+> I use this one
+
+Code editors offer both tag completion
+
+and code coloring
+
+## What HTML tags are on every web page?
+
+`<!doctype html>` - Tells the browser this is an HTML document.
+`<html></html>` - Tells browser where your HTML begins and ends.
+`<head></head>` - Information for the browser about your page.
+`<body></body>` - The contents of your page go here.
+
+> Without these tags the browser cannot identify your HTML page
+> Below is the complete structure of a HTML Web page
+
+`
+
+<!doctype html>
+<html>
+    <head>
+    </head>
+    <body>
+    </body>
+</html>
+`
