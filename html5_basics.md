@@ -33,20 +33,6 @@ Some HTML tags need attributes to provide more information
 
 > **Note:** We close the tag and not the attribute
 
-## code editiors
-
-code editors make writing HTML easier
-
-- [Atom](https://atom.io/)
-- [Sublime text ](https://www.sublimetext.com/)
-- [VS Code](https://code.visualstudio.com/)
-
-> **Note:** I use VS Code
-
-Code editors offer both tag completion
-
-and code coloring
-
 ## What HTML tags are on every web page?
 
 `<!doctype html>` - Tells the browser this is an HTML document.
@@ -61,8 +47,6 @@ and code coloring
 
 Example
 
-`
-
 <!doctype html>
 <html>
     <head>
@@ -70,7 +54,24 @@ Example
     <body>
     </body>
 </html>
-`
+
+## Code Editiors
+
+code editors make writing HTML easier
+
+- [Atom](https://atom.io/)
+- [Sublime text ](https://www.sublimetext.com/)
+- [VS Code](https://code.visualstudio.com/)
+
+> **Note:** I use VS Code
+
+Code editors offer both tag completion
+
+[Code Coloring](images/emmet.gif)
+
+and code coloring
+
+[Code Coloring](images/codecoloring.JPG)
 
 ### Learning Outcomes
 
