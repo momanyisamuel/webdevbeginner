@@ -42,9 +42,9 @@ Example
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
-1. Read [Lena Shore's explanation of the difference between absolute and relative paths](http://www.lenashore.com/2011/12/the-difference-between-absolute-and-relative-paths/).
-2. Browse [Boogie Jack's article on link paths](http://www.boogiejack.com/server_paths.html).
-3. Read [Six Revisions' article on link pseudo-classes](http://sixrevisions.com/css/link-pseudo-classes/) .
+- 1. Read [Lena Shore's explanation of the difference between absolute and relative paths](http://www.lenashore.com/2011/12/the-difference-between-absolute-and-relative-paths/).
+- 2. Browse [Boogie Jack's article on link paths](http://www.boogiejack.com/server_paths.html).
+- 3. Read [Six Revisions' article on link pseudo-classes](http://sixrevisions.com/css/link-pseudo-classes/) .
 </div>
 
 ### Additional Resources

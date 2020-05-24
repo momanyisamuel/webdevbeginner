@@ -1,9 +1,4 @@
-## Our goal for today
-
-- Create a web page containing
-- A paragraph
-- An image
-- A lInk
+### Introduction
 
 Lets review some vocabulary
 
@@ -36,17 +31,17 @@ Some HTML tags need attributes to provide more information
 
 ![Element Breakdown](images/element_breakdown.png)
 
-> we close the tag and not the attribute
+> **Note:** We close the tag and not the attribute
 
 ## code editiors
 
 code editors make writing HTML easier
 
-Atom -
-Sublime text -
-VS Code -
+- Atom -
+- Sublime text -
+- VS Code -
 
-> I use this one
+> **Note:** I use VS Code
 
 Code editors offer both tag completion
 
@@ -62,6 +57,10 @@ and code coloring
 > Without these tags the browser cannot identify your HTML page
 > Below is the complete structure of a HTML Web page
 
+---
+
+Example
+
 `
 
 <!doctype html>
@@ -72,3 +71,26 @@ and code coloring
     </body>
 </html>
 `
+
+### Learning Outcomes
+
+- How is an HTML5 document structured?
+- What are elements/tags?
+- What are element attributes
+
+### Assignment
+
+<div class="lesson-content__panel" markdown="1">
+- 1. Read [Shay Howe's Introduction to Terminology & Syntax](http://learn.shayhowe.com/html-css/terminology-syntax-intro)
+- 2. Read [Shay Howe on the HTML Basics](http://learn.shayhowe.com/html-css/elements-semantics)
+- 3. Read [Shay Howe on Best Practices](http://learn.shayhowe.com/html-css/coding-practices)
+</div>
+
+### Additional Resources
+
+This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
+
+- [WTFHTMLCSS with basic tips to improve your code](http://wtfhtmlcss.com/)
+- [W3C HTML5 tutorial ](http://www.w3schools.com/html/default.asp)
+- [HTML Style Guide](http://codeguide.co/#html) by [Mark Otto](https://github.com/mdo), one of the creators of Bootstrap.
+- [CrashCourse Introduction to HTML&CSS](https://www.youtube.com/watch?v=QA0XpGhiz5w)
